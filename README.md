@@ -1,5 +1,4 @@
 # Fraud Detection — Machine Learning on Cloud (LD7187)
-## Group Project Code Submission
 
 ---
 
@@ -57,5 +56,3 @@ imbalanced-learn, xgboost, scipy, google-cloud-storage
 ```
 
 ---
-
-*LD7187 Machine Learning on Cloud | Submission deadline: 21 May 2026*
